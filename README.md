@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sakshamsood3
 - 👀 I’m interested in coding,ethical hacking,photography and music :)
 - 🌱 I’m currently learning app development
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : email: soodsakshamjan@gmail.com
 
 <!---
