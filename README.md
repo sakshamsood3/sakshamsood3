@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sakshamsood3
-- 👀 I’m interested in coding,ethical hacking,photography and music :)
+- 👋 Hi, I’m Saksham Sood!
+- 👀 I’m interested in coding,photography and music :)
 - 🌱 I’m currently learning app development
 - 📫 How to reach me : email: soodsakshamjan@gmail.com
 
