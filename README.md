@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saksham Sood!
 - 👀 I’m interested in coding,photography and music :)
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning data structures and Algorithms.
 - 📫 How to reach me : email: soodsakshamjan@gmail.com
 
 <!---
